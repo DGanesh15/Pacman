@@ -69,7 +69,7 @@ You can also generate the data using
 ```bash
 python generate_data.py
 ```
-and you will get data in required format but remember to change the game seed and ID for future HDDA tasks
+The data visualization if set to True you [can see the model playing Pacman](https://www.youtube.com/watch?v=jdu568hdR-c) and improving by learning policy. Once you complete executing this file in the end you will get data in the required format but remember to change the game seed and ID for future HDDA tasks.
 
 ### **2. Run the Visualization**
 To start the t-SNE/UMAP visualization for Pacman, run the appropriate script:
