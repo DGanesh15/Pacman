@@ -146,6 +146,7 @@ Follow the interactive controls in the matplotlib window:
   - [CUML](https://rapids.ai/)
   - [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
   - [Gymnasium](https://gymnasium.farama.org/)
+    
 -**Referred Related Repositories**:
   -  UMAP GitHub Repository. (2024).
   -  https://github.com/TomZahavy/GrayingTheBox
