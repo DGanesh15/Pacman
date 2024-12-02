@@ -135,7 +135,7 @@ Follow the interactive controls in the matplotlib window:
 ---
 
 ## **References**
-- **Main Reference Paper**: Graying the Black Box: Understanding DQNs
+- **Main Reference Paper**: [Graying the Black Box: Understanding DQNs](https://arxiv.org/abs/1602.02658)
 - Kulkarni, T. D., et al. (2016). Hierarchical deep reinforcement learning: Integrating temporal abstraction and intrinsic motivation. arXiv preprint arXiv:1604.06057.
 - Johnny Code, Implement Deep Q-Learning (DQN) in Pytorch - [Beginner Reinforcement Learning Tutorial](https://www.youtube.com/playlist?list=PL58zEckBH8fCMIVzQCRSZVPUp3ZAVagWi)
 
