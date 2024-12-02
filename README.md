@@ -135,7 +135,10 @@ Follow the interactive controls in the matplotlib window:
 ---
 
 ## **References**
-- **Paper**: Graying the Black Box: Understanding DQNs
+- **Main Reference Paper**: Graying the Black Box: Understanding DQNs
+- Kulkarni, T. D., et al. (2016). Hierarchical deep reinforcement learning: Integrating temporal abstraction and intrinsic motivation. arXiv preprint arXiv:1604.06057.
+- Johnny Code, Implement Deep Q-Learning (DQN) in Pytorch - [Beginner Reinforcement Learning Tutorial](https://www.youtube.com/playlist?list=PL58zEckBH8fCMIVzQCRSZVPUp3ZAVagWi)
+
 - **Libraries Used**:
   - [NumPy](https://numpy.org/)
   - [Matplotlib](https://matplotlib.org/)
@@ -143,5 +146,9 @@ Follow the interactive controls in the matplotlib window:
   - [CUML](https://rapids.ai/)
   - [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
   - [Gymnasium](https://gymnasium.farama.org/)
+-**Referred Related Repositories**:
+  -  UMAP GitHub Repository. (2024).
+  -  https://github.com/TomZahavy/GrayingTheBox
+  -  https://github.com/adhiiisetiawan/atari-dqn
 
 This project is a direct implementation of the concepts from the research paper, making it accessible for researchers and developers interested in reinforcement learning interpretability.
