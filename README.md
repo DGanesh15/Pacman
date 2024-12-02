@@ -77,12 +77,15 @@ To start the t-SNE/UMAP visualization for Pacman, run the appropriate script:
 ```bash
 python VIS_TOOL.py
 ```
+![Pacman_t-SNE_View](https://github.com/user-attachments/assets/d5992c5c-d435-4c64-9944-724ae27b43de)
+
 
 OR
 
 ```bash
 python visualization_umap.py
 ```
+![Pacman_UMAP_View](https://github.com/user-attachments/assets/660a68d1-76d3-40b3-86dd-91e497ecc47a)
 
 Follow the interactive controls in the matplotlib window:
 - **Previous/Next**: Navigate one frame backward/forward.
